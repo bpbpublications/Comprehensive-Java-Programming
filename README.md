@@ -1,2 +1,2 @@
-# Comprehensive Java Programming From Basics to Advanced Web Development
- Comprehensive Java Programming: From Basics to Advanced Web Development, by BPB Publications
+# Comprehensive Java Programming
+ Comprehensive Java Programming, by BPB Publications
